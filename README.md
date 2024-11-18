@@ -10,7 +10,6 @@ This is a simple Android weather application built using Jetpack Compose and Ret
   - Humidity
   - Dew point
   - Precipitation probability
-  - Atmospheric pressure
   - Visibility
   - Wind speed
   - UV index
